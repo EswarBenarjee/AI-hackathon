@@ -1,0 +1,72 @@
+body {
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #fff;
+    overflow-x: hidden;
+}
+
+/* Hone */
+
+
+/* Form */
+.data-fields {
+    margin: 4vh 0;
+    padding: 0 2vw;
+    font-family: 'Fredoka One', cursive;
+}
+
+form h1 {
+    font-family: 'Roboto Slab', serif;
+    background: -webkit-linear-gradient(#b92b27, #1565C0);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-bottom: 5vh;
+}
+
+form .field {
+    display: block;
+    margin-bottom: 15px;
+}
+
+.submitDiv {
+    margin-top: 5vh;
+}
+
+/* Team */
+.team {
+    margin: 5vh 0;
+    padding: 15vh 1vw 20vh;
+    background-color: #4052AB;
+}
+
+.team h1 {
+    font-family: 'Bree Serif', serif;
+    color: #fff;
+    margin-bottom: 10vh;
+}
+
+.team .card-body i {
+    font-size: 20px;
+}
+
+.team .card {
+    margin-bottom: 7vh;
+}
+
+.card img {
+    height: 40vh;
+    max-height: 250px;
+}
+
+/* Footer */
+.footer {
+    margin-top: 2vh;
+    font-family: 'Roboto Slab', serif;
+}
+
+.footer hr {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 0;
+    border-top: 2px solid #000;
+}
